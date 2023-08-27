@@ -16,7 +16,7 @@ export const About = () => {
                                         <p>Let me introduce myself <span class="up-down-emoji">🤝</span></p>
                                         <div>
                                             <p>During high school, I discovered my passion for engineering and actively pursued it through participation in <strong>programming, mathematics, and physics</strong> competitions at the state level. Through these experiences, I achieved notable results and developed my problem-solving, analytical thinking, and teamwork skills.
-                                                I continued to pursue my passion for engineering by enrolling in a <strong>Computer Science</strong> degree program at <strong>the University of Technology in Graz, Austria. </strong>
+                                                I continued to pursue my passion for engineering by enrolling in a <strong>Computer Science</strong> degree program at <strong>Graz University of Technology in Austria.</strong>
                                             </p>
                                         </div>
                                         <div>
