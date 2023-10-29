@@ -22,7 +22,7 @@ export const About = () => {
                                         <div>
                                             <p>
                                                 I like to spend my time working on personal projects, one of which is this website! 
-                                                I am also developing my skills outside the classroom by taking part in <strong><a href="https://losfuzzys.net/">LosFuzzys</a></strong>, a CTF team dedicated to identifying security vulnerabilities in IT systems. 
+                                                Moreover, I am enhancing my cybersecurity skills through extracurricular participation in CTF challenges (identifying security vulnerabilities in IT systems) on <strong><a href="https://www.hackthebox.com/">HackTheBox</a></strong>, <strong><a href="https://tryhackme.com/">TryHackMe</a></strong> and <strong><a href="https://www.vulnhub.com/">VulnHub</a></strong> websites.
                                                 In the future, I hope to further explore my interests and continue gaining experience in a variety of sectors of computer engineering.
                                             </p>
                                         </div>
