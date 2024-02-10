@@ -75,7 +75,9 @@ body {
   background-color: #121212 !important;
   color: #fff !important;
   font-family: 'Centra', sans-serif !important;
-  background-image: url('./materials/photos/main_background.png');
+  /* background-image: url('./materials/photos/main_background.png'); */
+  /*Generated photo using ChatGPT's DALL-E: */
+  background-image: url('./materials/photos/DALL·E\ 2024-02-10\ 01.25.51\ -\ A\ dark\ black\ background\ that\ is\ 98\ percent\ dark\,\ with\ subtle\ purple\ lines\ resembling\ the\ intricate\ circuit\ patterns\ found\ on\ a\ motherboard.\ The\ purple.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
