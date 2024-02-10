@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.2699bf0c.css",
-    "main.js": "/Portfolio-Website/static/js/main.1e3b6476.js",
+    "main.css": "/Portfolio-Website/static/css/main.dba0b508.css",
+    "main.js": "/Portfolio-Website/static/js/main.c7d5f487.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-Website/static/js/787.1ed0c42c.chunk.js",
-    "static/media/main_background.png": "/Portfolio-Website/static/media/main_background.49174039f209ecccab22.png",
-    "static/media/rsz_1screenshot_from_2023-07-29_11-25-31.png": "/Portfolio-Website/static/media/rsz_1screenshot_from_2023-07-29_11-25-31.60492156db6c4e9fd615.png",
+    "static/media/memoryCachePhoto.webp": "/Portfolio-Website/static/media/memoryCachePhoto.fb252f0e0218bc22e1d1.webp",
+    "static/media/DALL·E 2024-02-10 01.02.51 - Create an informative and schematic illustration for a Java Geospatial Project, featuring a stylized map as the central element. The design should inc.webp": "/Portfolio-Website/static/media/DALL·E 2024-02-10 01.02.51 - Create an informative and schematic illustration for a Java Geospatial Project, featuring a stylized map as the central element. The design should inc.8b28a396f7d783cf0ed6.webp",
+    "static/media/DALL·E 2024-02-10 01.09.00 - Create a portfolio website cover image with an emphasis on the word 'portfolio'. The design should be modern and professional, incorporating elements .webp": "/Portfolio-Website/static/media/DALL·E 2024-02-10 01.09.00 - Create a portfolio website cover image with an emphasis on the word 'portfolio'. The design should be modern and professional, incorporating elements .d17c615483835e56011f.webp",
+    "static/media/DALL·E 2024-02-10 01.25.51 - A dark black background that is 98 percent dark, with subtle purple lines resembling the intricate circuit patterns found on a motherboard. The purple.webp": "/Portfolio-Website/static/media/DALL·E 2024-02-10 01.25.51 - A dark black background that is 98 percent dark, with subtle purple lines resembling the intricate circuit patterns found on a motherboard. The purple.86bcbe4b9c67d49998d0.webp",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio-Website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio-Website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio-Website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -18,12 +20,12 @@
     "static/media/github-mark-white.svg": "/Portfolio-Website/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/Portfolio-Website/index.html",
     "static/media/nav-icon1.svg": "/Portfolio-Website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.2699bf0c.css.map": "/Portfolio-Website/static/css/main.2699bf0c.css.map",
-    "main.1e3b6476.js.map": "/Portfolio-Website/static/js/main.1e3b6476.js.map",
+    "main.dba0b508.css.map": "/Portfolio-Website/static/css/main.dba0b508.css.map",
+    "main.c7d5f487.js.map": "/Portfolio-Website/static/js/main.c7d5f487.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-Website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2699bf0c.css",
-    "static/js/main.1e3b6476.js"
+    "static/css/main.dba0b508.css",
+    "static/js/main.c7d5f487.js"
   ]
 }
