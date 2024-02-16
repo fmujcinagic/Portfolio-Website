@@ -22,9 +22,6 @@ export const Banner = () => {
         window.location.href = mailtoLink;
     };
 
-    const handleClickResume = () => {
-        window.location.href = 'https://github.com/fmujcinagic/resume/blob/main/Faris%20Mujcinagic%20Resume.pdf';
-    };
 
     useEffect(() => {
         let ticker = setInterval(() => {
@@ -71,9 +68,9 @@ export const Banner = () => {
                                     <h1>{`Hi! I'm Faris`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Third Year Computer Science Student", "Low", "3" ]'><span className="wrap">{text}</span></span></h1>
                                     <p>Presently pursuing a <strong>Computer Science</strong> degree program at <strong>Graz University of Technology in Austria. </strong>
                                         I possess a strong interest in the foundational aspects of computer science, with a particular focus on <strong>low-level programming</strong> and <strong>information security</strong>.</p>
-                                    <p>Click on my resume below <span class="rotate-emoji">👨‍💻</span></p>
+                                    <p>Scroll down to experience more <span class="rotate-emoji">👨‍💻</span></p>
                                     <button onClick={handleClick} class="connect-button">Let's Connect <ArrowRightCircle size={25} /></button>
-                                    <button onClick={handleClickResume} class="download-button">Download Resume</button>
+                                    {/* <button onClick={handleClickResume} class="download-button">Download Resume</button> */}
                                 </div>}
                         </TrackVisibility>
                     </Col>
