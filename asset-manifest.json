@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.dba0b508.css",
-    "main.js": "/Portfolio-Website/static/js/main.c7d5f487.js",
+    "main.js": "/Portfolio-Website/static/js/main.d8734b27.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-Website/static/js/787.1ed0c42c.chunk.js",
     "static/media/memoryCachePhoto.webp": "/Portfolio-Website/static/media/memoryCachePhoto.fb252f0e0218bc22e1d1.webp",
     "static/media/DALL·E 2024-02-10 01.02.51 - Create an informative and schematic illustration for a Java Geospatial Project, featuring a stylized map as the central element. The design should inc.webp": "/Portfolio-Website/static/media/DALL·E 2024-02-10 01.02.51 - Create an informative and schematic illustration for a Java Geospatial Project, featuring a stylized map as the central element. The design should inc.8b28a396f7d783cf0ed6.webp",
@@ -21,11 +21,11 @@
     "index.html": "/Portfolio-Website/index.html",
     "static/media/nav-icon1.svg": "/Portfolio-Website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.dba0b508.css.map": "/Portfolio-Website/static/css/main.dba0b508.css.map",
-    "main.c7d5f487.js.map": "/Portfolio-Website/static/js/main.c7d5f487.js.map",
+    "main.d8734b27.js.map": "/Portfolio-Website/static/js/main.d8734b27.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-Website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dba0b508.css",
-    "static/js/main.c7d5f487.js"
+    "static/js/main.d8734b27.js"
   ]
 }
