@@ -70,7 +70,6 @@ export const Banner = () => {
                                         I possess a strong interest in the foundational aspects of computer science, with a particular focus on <strong>low-level programming</strong> and <strong>information security</strong>.</p>
                                     <p>Scroll down to experience more <span class="rotate-emoji">👨‍💻</span></p>
                                     <button onClick={handleClick} class="connect-button">Let's Connect <ArrowRightCircle size={25} /></button>
-                                    {/* <button onClick={handleClickResume} class="download-button">Download Resume</button> */}
                                 </div>}
                         </TrackVisibility>
                     </Col>
